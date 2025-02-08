@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Soccer",
+        "min_participants": 10,
+        "max_participants": 30
+    },
+    {
+        "name": "Basketball",
+        "min_participants": 5,
+        "max_participants": 20
+    },
+    {
+        "name": "Painting",
+        "min_participants": 3,
+        "max_participants": 12
+    },
+    {
+        "name": "Cooking",
+        "min_participants": 4,
+        "max_participants": 10
+    },
+    {
+        "name": "Coding",
+        "min_participants": 2,
+        "max_participants": 20
+    },
+    {
+        "name": "Chess",
+        "min_participants": 2,
+        "max_participants": 10
+    },
+    {
+        "name": "Swimming",
+        "min_participants": 6,
+        "max_participants": 25
+    },
+    {
+        "name": "Hiking",
+        "min_participants": 8,
+        "max_participants": 20
+    },
+    {
+        "name": "Music",
+        "min_participants": 5,
+        "max_participants": 15
+    },
+    {
+        "name": "Theater",
+        "min_participants": 7,
+        "max_participants": 20
+    }
+]
